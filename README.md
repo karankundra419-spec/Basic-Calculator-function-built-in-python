@@ -3,17 +3,17 @@ This project is a basic command-line calculator built using Python. It demonstra
 
 # Features
 
-Addition
-Subtraction
-Multiplication
-Division
-Average of two numbers
+## Addition
+## Subtraction
+## Multiplication
+## Division
+## Average of two numbers
 
 #  Concepts Used
 
-Python functions
-Conditional statements (if-elif-else)
-User input (input())
-Basic arithmetic operators
-Clean and modular code structure
+## Python functions
+## Conditional statements (if-elif-else)
+## User input (input())
+## Basic arithmetic operators
+## Clean and modular code structure
 
